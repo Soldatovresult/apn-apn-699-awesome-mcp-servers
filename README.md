@@ -11,7 +11,7 @@ The Model Context Protocol (MCP) is revolutionizing how AI agents interact with 
 ## 🌟 Featured Servers
 
 ### Development & DevOps
-- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)**: Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)**: Local macOS CLI and stdio MCP payments with an owner-set x402 policy and terminal approval for direct transfers.
 - **[Chrome DevTools MCP]**: Full Chrome extension environment binding to debug pages.
 - **[GitHub MCP]**: Native integration to manage repositories, read branches, and execute PR workflows autonomously.
 - **[Postgres MCP]**: Secure bridge for AI agents to query, introspect schemas, and manage Postgres clusters safely.
